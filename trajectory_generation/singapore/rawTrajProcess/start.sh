@@ -1,0 +1,2 @@
+javac RawTrajProcess.java
+java RawTrajProcess
